@@ -1,0 +1,1 @@
+common files from https://github.com/newaetech/fpga-common/tree/main/hdl
