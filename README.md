@@ -33,5 +33,5 @@ We have kept the underlying hardware interface exactly the same, and modified th
 
 ## How to use the repository
 
-- [Analysis of traces]: in the folder [acquisition] there are some previously acquired traces, that can be uploaded and analysed running code in the notebook [ascon_analysis].
+- [Analysis of traces]: to set the analysis with pre acquired traces, download from [here](https://zenodo.org/records/17048022) the traces and move them in the folder [acquisition]; then these traces can be uploaded and analysed running code in the notebook [ascon_analysis].
 - [Acquisition of new traces]: it is possible to acquire new traces running the Python file [ascon_acquisition]. Note that for each acquisition campaign the name of the folder in which the traces are saved should be changed, and the acquisition values should be checked.
